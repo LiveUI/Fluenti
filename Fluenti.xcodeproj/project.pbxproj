@@ -527,1253 +527,1253 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		157F777420D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A3F20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIODarwin";
+			remoteInfo = CNIODarwin;
+		};
+		157F7A4020D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOLinux";
+			remoteInfo = CNIOLinux;
+		};
+		157F7A4120D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
+			remoteInfo = NIOConcurrencyHelpers;
+		};
+		157F7A4220D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOAtomics";
+			remoteInfo = CNIOAtomics;
+		};
+		157F7A4320D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOAtomics";
+			remoteInfo = CNIOAtomics;
+		};
+		157F7A4420D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Core";
+			remoteInfo = Core;
+		};
+		157F7A4520D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
+			remoteInfo = NIOFoundationCompat;
+		};
+		157F7A4620D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIO";
+			remoteInfo = NIO;
+		};
+		157F7A4720D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIODarwin";
+			remoteInfo = CNIODarwin;
+		};
+		157F7A4820D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOLinux";
+			remoteInfo = CNIOLinux;
+		};
+		157F7A4920D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
+			remoteInfo = NIOConcurrencyHelpers;
+		};
+		157F7A4A20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOAtomics";
+			remoteInfo = CNIOAtomics;
+		};
+		157F7A4B20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Async";
+			remoteInfo = Async;
+		};
+		157F7A4C20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIO";
+			remoteInfo = NIO;
+		};
+		157F7A4D20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIODarwin";
+			remoteInfo = CNIODarwin;
+		};
+		157F7A4E20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOLinux";
+			remoteInfo = CNIOLinux;
+		};
+		157F7A4F20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
+			remoteInfo = NIOConcurrencyHelpers;
+		};
+		157F7A5020D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOAtomics";
+			remoteInfo = CNIOAtomics;
+		};
+		157F7A5120D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Bits";
+			remoteInfo = Bits;
+		};
+		157F7A5220D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIO";
+			remoteInfo = NIO;
+		};
+		157F7A5320D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIODarwin";
+			remoteInfo = CNIODarwin;
+		};
+		157F7A5420D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOLinux";
+			remoteInfo = CNIOLinux;
+		};
+		157F7A5520D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
+			remoteInfo = NIOConcurrencyHelpers;
+		};
+		157F7A5620D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOAtomics";
+			remoteInfo = CNIOAtomics;
+		};
+		157F7A5720D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Debugging";
+			remoteInfo = Debugging;
+		};
+		157F7A5820D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIO";
+			remoteInfo = NIO;
+		};
+		157F7A5920D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIODarwin";
+			remoteInfo = CNIODarwin;
+		};
+		157F7A5A20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOLinux";
+			remoteInfo = CNIOLinux;
+		};
+		157F7A5B20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
+			remoteInfo = NIOConcurrencyHelpers;
+		};
+		157F7A5C20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOAtomics";
+			remoteInfo = CNIOAtomics;
+		};
+		157F7A5D20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Debugging";
+			remoteInfo = Debugging;
+		};
+		157F7A5E20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::COperatingSystem";
+			remoteInfo = COperatingSystem;
+		};
+		157F7A5F20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
+			remoteInfo = NIOFoundationCompat;
+		};
+		157F7A6020D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Async";
+			remoteInfo = Async;
+		};
+		157F7A6120D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Bits";
+			remoteInfo = Bits;
+		};
+		157F7A6220D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Debugging";
+			remoteInfo = Debugging;
+		};
+		157F7A6320D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::COperatingSystem";
+			remoteInfo = COperatingSystem;
+		};
+		157F7A6420D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIO";
+			remoteInfo = NIO;
+		};
+		157F7A6520D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIODarwin";
+			remoteInfo = CNIODarwin;
+		};
+		157F7A6620D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOLinux";
+			remoteInfo = CNIOLinux;
+		};
+		157F7A6720D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
+			remoteInfo = NIOConcurrencyHelpers;
+		};
+		157F7A6820D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOAtomics";
+			remoteInfo = CNIOAtomics;
+		};
+		157F7A6920D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Core";
+			remoteInfo = Core;
+		};
+		157F7A6A20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
+			remoteInfo = NIOFoundationCompat;
+		};
+		157F7A6B20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Async";
+			remoteInfo = Async;
+		};
+		157F7A6C20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Bits";
+			remoteInfo = Bits;
+		};
+		157F7A6D20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Debugging";
+			remoteInfo = Debugging;
+		};
+		157F7A6E20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::COperatingSystem";
+			remoteInfo = COperatingSystem;
+		};
+		157F7A6F20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIO";
+			remoteInfo = NIO;
+		};
+		157F7A7020D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIODarwin";
+			remoteInfo = CNIODarwin;
+		};
+		157F7A7120D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOLinux";
+			remoteInfo = CNIOLinux;
+		};
+		157F7A7220D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
+			remoteInfo = NIOConcurrencyHelpers;
+		};
+		157F7A7320D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOAtomics";
+			remoteInfo = CNIOAtomics;
+		};
+		157F7A7420D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::DatabaseKit";
 			remoteInfo = DatabaseKit;
 		};
-		157F777520D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A7520D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Service";
 			remoteInfo = Service;
 		};
-		157F777620D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A7620D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Core";
 			remoteInfo = Core;
 		};
-		157F777720D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A7720D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
 			remoteInfo = NIOFoundationCompat;
 		};
-		157F777820D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIO";
-			remoteInfo = NIO;
-		};
-		157F777920D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIODarwin";
-			remoteInfo = CNIODarwin;
-		};
-		157F777A20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOLinux";
-			remoteInfo = CNIOLinux;
-		};
-		157F777B20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
-			remoteInfo = NIOConcurrencyHelpers;
-		};
-		157F777C20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOAtomics";
-			remoteInfo = CNIOAtomics;
-		};
-		157F777D20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOAtomics";
-			remoteInfo = CNIOAtomics;
-		};
-		157F777E20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIODarwin";
-			remoteInfo = CNIODarwin;
-		};
-		157F777F20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOLinux";
-			remoteInfo = CNIOLinux;
-		};
-		157F778020D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
-			remoteInfo = NIOConcurrencyHelpers;
-		};
-		157F778120D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOAtomics";
-			remoteInfo = CNIOAtomics;
-		};
-		157F778220D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A7820D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Async";
 			remoteInfo = Async;
 		};
-		157F778320D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIO";
-			remoteInfo = NIO;
-		};
-		157F778420D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIODarwin";
-			remoteInfo = CNIODarwin;
-		};
-		157F778520D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOLinux";
-			remoteInfo = CNIOLinux;
-		};
-		157F778620D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
-			remoteInfo = NIOConcurrencyHelpers;
-		};
-		157F778720D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOAtomics";
-			remoteInfo = CNIOAtomics;
-		};
-		157F778820D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A7920D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Bits";
 			remoteInfo = Bits;
 		};
-		157F778920D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIO";
-			remoteInfo = NIO;
-		};
-		157F778A20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIODarwin";
-			remoteInfo = CNIODarwin;
-		};
-		157F778B20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOLinux";
-			remoteInfo = CNIOLinux;
-		};
-		157F778C20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
-			remoteInfo = NIOConcurrencyHelpers;
-		};
-		157F778D20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOAtomics";
-			remoteInfo = CNIOAtomics;
-		};
-		157F778E20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A7A20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Debugging";
 			remoteInfo = Debugging;
 		};
-		157F778F20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIO";
-			remoteInfo = NIO;
-		};
-		157F779020D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIODarwin";
-			remoteInfo = CNIODarwin;
-		};
-		157F779120D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOLinux";
-			remoteInfo = CNIOLinux;
-		};
-		157F779220D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
-			remoteInfo = NIOConcurrencyHelpers;
-		};
-		157F779320D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOAtomics";
-			remoteInfo = CNIOAtomics;
-		};
-		157F779420D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Debugging";
-			remoteInfo = Debugging;
-		};
-		157F779520D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A7B20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::COperatingSystem";
 			remoteInfo = COperatingSystem;
 		};
-		157F779620D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
-			remoteInfo = NIOFoundationCompat;
-		};
-		157F779720D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Async";
-			remoteInfo = Async;
-		};
-		157F779820D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Bits";
-			remoteInfo = Bits;
-		};
-		157F779920D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Debugging";
-			remoteInfo = Debugging;
-		};
-		157F779A20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::COperatingSystem";
-			remoteInfo = COperatingSystem;
-		};
-		157F779B20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A7C20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIO";
 			remoteInfo = NIO;
 		};
-		157F779C20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A7D20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIODarwin";
 			remoteInfo = CNIODarwin;
 		};
-		157F779D20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A7E20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIOLinux";
 			remoteInfo = CNIOLinux;
 		};
-		157F779E20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A7F20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
 			remoteInfo = NIOConcurrencyHelpers;
 		};
-		157F779F20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8020D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIOAtomics";
 			remoteInfo = CNIOAtomics;
 		};
-		157F77A020D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Core";
-			remoteInfo = Core;
-		};
-		157F77A120D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
-			remoteInfo = NIOFoundationCompat;
-		};
-		157F77A220D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Async";
-			remoteInfo = Async;
-		};
-		157F77A320D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Bits";
-			remoteInfo = Bits;
-		};
-		157F77A420D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Debugging";
-			remoteInfo = Debugging;
-		};
-		157F77A520D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::COperatingSystem";
-			remoteInfo = COperatingSystem;
-		};
-		157F77A620D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIO";
-			remoteInfo = NIO;
-		};
-		157F77A720D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIODarwin";
-			remoteInfo = CNIODarwin;
-		};
-		157F77A820D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOLinux";
-			remoteInfo = CNIOLinux;
-		};
-		157F77A920D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
-			remoteInfo = NIOConcurrencyHelpers;
-		};
-		157F77AA20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOAtomics";
-			remoteInfo = CNIOAtomics;
-		};
-		157F77AB20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8120D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Command";
 			remoteInfo = Command;
 		};
-		157F77AC20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8220D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Console";
 			remoteInfo = Console;
 		};
-		157F77AD20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8320D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Service";
 			remoteInfo = Service;
 		};
-		157F77AE20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8420D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Logging";
 			remoteInfo = Logging;
 		};
-		157F77AF20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8520D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Core";
 			remoteInfo = Core;
 		};
-		157F77B020D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8620D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
 			remoteInfo = NIOFoundationCompat;
 		};
-		157F77B120D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8720D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Async";
 			remoteInfo = Async;
 		};
-		157F77B220D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Bits";
-			remoteInfo = Bits;
-		};
-		157F77B320D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Debugging";
-			remoteInfo = Debugging;
-		};
-		157F77B420D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8820D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::COperatingSystem";
 			remoteInfo = COperatingSystem;
 		};
-		157F77B520D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIO";
-			remoteInfo = NIO;
-		};
-		157F77B620D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIODarwin";
-			remoteInfo = CNIODarwin;
-		};
-		157F77B720D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOLinux";
-			remoteInfo = CNIOLinux;
-		};
-		157F77B820D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
-			remoteInfo = NIOConcurrencyHelpers;
-		};
-		157F77B920D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOAtomics";
-			remoteInfo = CNIOAtomics;
-		};
-		157F77BA20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Core";
-			remoteInfo = Core;
-		};
-		157F77BB20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
-			remoteInfo = NIOFoundationCompat;
-		};
-		157F77BC20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Async";
-			remoteInfo = Async;
-		};
-		157F77BD20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::COperatingSystem";
-			remoteInfo = COperatingSystem;
-		};
-		157F77BE20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8920D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Bits";
 			remoteInfo = Bits;
 		};
-		157F77BF20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8A20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Debugging";
 			remoteInfo = Debugging;
 		};
-		157F77C020D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8B20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIO";
 			remoteInfo = NIO;
 		};
-		157F77C120D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8C20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIODarwin";
 			remoteInfo = CNIODarwin;
 		};
-		157F77C220D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8D20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIOLinux";
 			remoteInfo = CNIOLinux;
 		};
-		157F77C320D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8E20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
 			remoteInfo = NIOConcurrencyHelpers;
 		};
-		157F77C420D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A8F20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIOAtomics";
 			remoteInfo = CNIOAtomics;
 		};
-		157F77C520D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9020D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Logging";
 			remoteInfo = Logging;
 		};
-		157F77C620D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9120D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Service";
 			remoteInfo = Service;
 		};
-		157F77C720D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9220D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Core";
 			remoteInfo = Core;
 		};
-		157F77C820D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9320D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
 			remoteInfo = NIOFoundationCompat;
 		};
-		157F77C920D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9420D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Async";
 			remoteInfo = Async;
 		};
-		157F77CA20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9520D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Bits";
 			remoteInfo = Bits;
 		};
-		157F77CB20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9620D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Debugging";
 			remoteInfo = Debugging;
 		};
-		157F77CC20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9720D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::COperatingSystem";
 			remoteInfo = COperatingSystem;
 		};
-		157F77CD20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9820D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIO";
 			remoteInfo = NIO;
 		};
-		157F77CE20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9920D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIODarwin";
 			remoteInfo = CNIODarwin;
 		};
-		157F77CF20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9A20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIOLinux";
 			remoteInfo = CNIOLinux;
 		};
-		157F77D020D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9B20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
 			remoteInfo = NIOConcurrencyHelpers;
 		};
-		157F77D120D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9C20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIOAtomics";
 			remoteInfo = CNIOAtomics;
 		};
-		157F77D220D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9D20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Console";
 			remoteInfo = Console;
 		};
-		157F77D320D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9E20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Logging";
 			remoteInfo = Logging;
 		};
-		157F77D420D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7A9F20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Service";
 			remoteInfo = Service;
 		};
-		157F77D520D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AA020D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Core";
 			remoteInfo = Core;
 		};
-		157F77D620D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AA120D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
 			remoteInfo = NIOFoundationCompat;
 		};
-		157F77D720D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AA220D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Async";
 			remoteInfo = Async;
 		};
-		157F77D820D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AA320D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Bits";
 			remoteInfo = Bits;
 		};
-		157F77D920D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AA420D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Debugging";
 			remoteInfo = Debugging;
 		};
-		157F77DA20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AA520D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::COperatingSystem";
 			remoteInfo = COperatingSystem;
 		};
-		157F77DB20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AA620D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIO";
 			remoteInfo = NIO;
 		};
-		157F77DC20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AA720D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIODarwin";
 			remoteInfo = CNIODarwin;
 		};
-		157F77DD20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AA820D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIOLinux";
 			remoteInfo = CNIOLinux;
 		};
-		157F77DE20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AA920D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
 			remoteInfo = NIOConcurrencyHelpers;
 		};
-		157F77DF20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AAA20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIOAtomics";
 			remoteInfo = CNIOAtomics;
 		};
-		157F77E020D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AAB20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::DatabaseKit";
+			remoteInfo = DatabaseKit;
+		};
+		157F7AAC20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Service";
+			remoteInfo = Service;
+		};
+		157F7AAD20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Core";
+			remoteInfo = Core;
+		};
+		157F7AAE20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
+			remoteInfo = NIOFoundationCompat;
+		};
+		157F7AAF20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Async";
+			remoteInfo = Async;
+		};
+		157F7AB020D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Bits";
+			remoteInfo = Bits;
+		};
+		157F7AB120D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Debugging";
+			remoteInfo = Debugging;
+		};
+		157F7AB220D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::COperatingSystem";
+			remoteInfo = COperatingSystem;
+		};
+		157F7AB320D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIO";
+			remoteInfo = NIO;
+		};
+		157F7AB420D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIODarwin";
+			remoteInfo = CNIODarwin;
+		};
+		157F7AB520D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOLinux";
+			remoteInfo = CNIOLinux;
+		};
+		157F7AB620D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
+			remoteInfo = NIOConcurrencyHelpers;
+		};
+		157F7AB720D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOAtomics";
+			remoteInfo = CNIOAtomics;
+		};
+		157F7AB820D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Fluent";
+			remoteInfo = Fluent;
+		};
+		157F7AB920D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Command";
+			remoteInfo = Command;
+		};
+		157F7ABA20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Console";
+			remoteInfo = Console;
+		};
+		157F7ABB20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Logging";
+			remoteInfo = Logging;
+		};
+		157F7ABC20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::SQLite";
+			remoteInfo = SQLite;
+		};
+		157F7ABD20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::DatabaseKit";
+			remoteInfo = DatabaseKit;
+		};
+		157F7ABE20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Service";
+			remoteInfo = Service;
+		};
+		157F7ABF20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Core";
+			remoteInfo = Core;
+		};
+		157F7AC020D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
+			remoteInfo = NIOFoundationCompat;
+		};
+		157F7AC120D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Async";
+			remoteInfo = Async;
+		};
+		157F7AC220D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Bits";
+			remoteInfo = Bits;
+		};
+		157F7AC320D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::Debugging";
+			remoteInfo = Debugging;
+		};
+		157F7AC420D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::COperatingSystem";
+			remoteInfo = COperatingSystem;
+		};
+		157F7AC520D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIO";
+			remoteInfo = NIO;
+		};
+		157F7AC620D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIODarwin";
+			remoteInfo = CNIODarwin;
+		};
+		157F7AC720D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOLinux";
+			remoteInfo = CNIOLinux;
+		};
+		157F7AC820D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
+			remoteInfo = NIOConcurrencyHelpers;
+		};
+		157F7AC920D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = OBJ_1 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = "Fluenti::CNIOAtomics";
+			remoteInfo = CNIOAtomics;
+		};
+		157F7ACA20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::FluentSQLite";
 			remoteInfo = FluentSQLite;
 		};
-		157F77E120D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Fluent";
-			remoteInfo = Fluent;
-		};
-		157F77E220D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Command";
-			remoteInfo = Command;
-		};
-		157F77E320D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Console";
-			remoteInfo = Console;
-		};
-		157F77E420D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Logging";
-			remoteInfo = Logging;
-		};
-		157F77E520D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7ACB20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::SQLite";
 			remoteInfo = SQLite;
 		};
-		157F77E620D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::DatabaseKit";
-			remoteInfo = DatabaseKit;
-		};
-		157F77E720D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Service";
-			remoteInfo = Service;
-		};
-		157F77E820D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Core";
-			remoteInfo = Core;
-		};
-		157F77E920D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
-			remoteInfo = NIOFoundationCompat;
-		};
-		157F77EA20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Async";
-			remoteInfo = Async;
-		};
-		157F77EB20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Bits";
-			remoteInfo = Bits;
-		};
-		157F77EC20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Debugging";
-			remoteInfo = Debugging;
-		};
-		157F77ED20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::COperatingSystem";
-			remoteInfo = COperatingSystem;
-		};
-		157F77EE20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIO";
-			remoteInfo = NIO;
-		};
-		157F77EF20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIODarwin";
-			remoteInfo = CNIODarwin;
-		};
-		157F77F020D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOLinux";
-			remoteInfo = CNIOLinux;
-		};
-		157F77F120D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
-			remoteInfo = NIOConcurrencyHelpers;
-		};
-		157F77F220D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOAtomics";
-			remoteInfo = CNIOAtomics;
-		};
-		157F77F320D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::DatabaseKit";
-			remoteInfo = DatabaseKit;
-		};
-		157F77F420D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Service";
-			remoteInfo = Service;
-		};
-		157F77F520D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Core";
-			remoteInfo = Core;
-		};
-		157F77F620D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
-			remoteInfo = NIOFoundationCompat;
-		};
-		157F77F720D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Async";
-			remoteInfo = Async;
-		};
-		157F77F820D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Bits";
-			remoteInfo = Bits;
-		};
-		157F77F920D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::Debugging";
-			remoteInfo = Debugging;
-		};
-		157F77FA20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::COperatingSystem";
-			remoteInfo = COperatingSystem;
-		};
-		157F77FB20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIO";
-			remoteInfo = NIO;
-		};
-		157F77FC20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIODarwin";
-			remoteInfo = CNIODarwin;
-		};
-		157F77FD20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOLinux";
-			remoteInfo = CNIOLinux;
-		};
-		157F77FE20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
-			remoteInfo = NIOConcurrencyHelpers;
-		};
-		157F77FF20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::CNIOAtomics";
-			remoteInfo = CNIOAtomics;
-		};
-		157F780020D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = OBJ_1 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = "Fluenti::SQLite";
-			remoteInfo = SQLite;
-		};
-		157F780120D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7ACC20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Fluent";
 			remoteInfo = Fluent;
 		};
-		157F780220D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7ACD20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::DatabaseKit";
 			remoteInfo = DatabaseKit;
 		};
-		157F780320D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7ACE20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Command";
 			remoteInfo = Command;
 		};
-		157F780420D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7ACF20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Console";
 			remoteInfo = Console;
 		};
-		157F780520D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AD020D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Logging";
 			remoteInfo = Logging;
 		};
-		157F780620D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AD120D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Service";
 			remoteInfo = Service;
 		};
-		157F780720D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AD220D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Core";
 			remoteInfo = Core;
 		};
-		157F780820D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AD320D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
 			remoteInfo = NIOFoundationCompat;
 		};
-		157F780920D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AD420D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Async";
 			remoteInfo = Async;
 		};
-		157F780A20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AD520D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Bits";
 			remoteInfo = Bits;
 		};
-		157F780B20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AD620D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Debugging";
 			remoteInfo = Debugging;
 		};
-		157F780C20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AD720D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::COperatingSystem";
 			remoteInfo = COperatingSystem;
 		};
-		157F780D20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AD820D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIO";
 			remoteInfo = NIO;
 		};
-		157F780E20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AD920D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIODarwin";
 			remoteInfo = CNIODarwin;
 		};
-		157F780F20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7ADA20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIOLinux";
 			remoteInfo = CNIOLinux;
 		};
-		157F781020D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7ADB20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
 			remoteInfo = NIOConcurrencyHelpers;
 		};
-		157F781120D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7ADC20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIOAtomics";
 			remoteInfo = CNIOAtomics;
 		};
-		157F781220D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7ADD20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Fluenti";
 			remoteInfo = Fluenti;
 		};
-		157F781320D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7ADE20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::FluentSQLite";
 			remoteInfo = FluentSQLite;
 		};
-		157F781420D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7ADF20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::SQLite";
 			remoteInfo = SQLite;
 		};
-		157F781520D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AE020D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Fluent";
 			remoteInfo = Fluent;
 		};
-		157F781620D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AE120D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::DatabaseKit";
 			remoteInfo = DatabaseKit;
 		};
-		157F781720D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AE220D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Command";
 			remoteInfo = Command;
 		};
-		157F781820D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AE320D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Console";
 			remoteInfo = Console;
 		};
-		157F781920D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AE420D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Logging";
 			remoteInfo = Logging;
 		};
-		157F781A20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AE520D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Service";
 			remoteInfo = Service;
 		};
-		157F781B20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AE620D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Core";
 			remoteInfo = Core;
 		};
-		157F781C20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AE720D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIOFoundationCompat";
 			remoteInfo = NIOFoundationCompat;
 		};
-		157F781D20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AE820D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Async";
 			remoteInfo = Async;
 		};
-		157F781E20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AE920D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Bits";
 			remoteInfo = Bits;
 		};
-		157F781F20D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AEA20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::Debugging";
 			remoteInfo = Debugging;
 		};
-		157F782020D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AEB20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::COperatingSystem";
 			remoteInfo = COperatingSystem;
 		};
-		157F782120D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AEC20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIO";
 			remoteInfo = NIO;
 		};
-		157F782220D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AED20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIODarwin";
 			remoteInfo = CNIODarwin;
 		};
-		157F782320D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AEE20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIOLinux";
 			remoteInfo = CNIOLinux;
 		};
-		157F782420D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AEF20D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::NIOConcurrencyHelpers";
 			remoteInfo = NIOConcurrencyHelpers;
 		};
-		157F782520D5DB7C004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AF020D5DDCE004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "Fluenti::CNIOAtomics";
 			remoteInfo = CNIOAtomics;
 		};
-		157F782620D5DB7D004B75C4 /* PBXContainerItemProxy */ = {
+		157F7AF120D5DDCF004B75C4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
@@ -3219,27 +3219,27 @@
 		OBJ_408 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				"Fluenti::Fluent::Product" /* Fluent.framework */,
-				"Fluenti::Console::Product" /* Console.framework */,
-				"Fluenti::DatabaseKit::Product" /* DatabaseKit.framework */,
-				"Fluenti::Bits::Product" /* Bits.framework */,
 				"Fluenti::NIO::Product" /* NIO.framework */,
-				"Fluenti::CNIODarwin::Product" /* CNIODarwin.framework */,
-				"Fluenti::Core::Product" /* Core.framework */,
-				"Fluenti::NIOFoundationCompat::Product" /* NIOFoundationCompat.framework */,
 				"Fluenti::Logging::Product" /* Logging.framework */,
-				"Fluenti::Fluenti::Product" /* Fluenti.framework */,
-				"Fluenti::SQLite::Product" /* SQLite.framework */,
-				"Fluenti::NIOConcurrencyHelpers::Product" /* NIOConcurrencyHelpers.framework */,
-				"Fluenti::CNIOAtomics::Product" /* CNIOAtomics.framework */,
-				"Fluenti::CNIOLinux::Product" /* CNIOLinux.framework */,
-				"Fluenti::Command::Product" /* Command.framework */,
+				"Fluenti::NIOFoundationCompat::Product" /* NIOFoundationCompat.framework */,
 				"Fluenti::Service::Product" /* Service.framework */,
-				"Fluenti::COperatingSystem::Product" /* COperatingSystem.framework */,
-				"Fluenti::FluentSQLite::Product" /* FluentSQLite.framework */,
+				"Fluenti::Fluent::Product" /* Fluent.framework */,
+				"Fluenti::DatabaseKit::Product" /* DatabaseKit.framework */,
+				"Fluenti::CNIODarwin::Product" /* CNIODarwin.framework */,
 				"Fluenti::Debugging::Product" /* Debugging.framework */,
+				"Fluenti::COperatingSystem::Product" /* COperatingSystem.framework */,
+				"Fluenti::CNIOAtomics::Product" /* CNIOAtomics.framework */,
+				"Fluenti::SQLite::Product" /* SQLite.framework */,
+				"Fluenti::CNIOLinux::Product" /* CNIOLinux.framework */,
 				"Fluenti::FluentiTests::Product" /* FluentiTests.xctest */,
+				"Fluenti::Console::Product" /* Console.framework */,
+				"Fluenti::Command::Product" /* Command.framework */,
+				"Fluenti::Core::Product" /* Core.framework */,
+				"Fluenti::NIOConcurrencyHelpers::Product" /* NIOConcurrencyHelpers.framework */,
+				"Fluenti::FluentSQLite::Product" /* FluentSQLite.framework */,
+				"Fluenti::Fluenti::Product" /* Fluenti.framework */,
 				"Fluenti::Async::Product" /* Async.framework */,
+				"Fluenti::Bits::Product" /* Bits.framework */,
 			);
 			name = Products;
 			sourceTree = BUILT_PRODUCTS_DIR;
@@ -4480,897 +4480,897 @@
 		OBJ_1018 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Core" /* Core */;
-			targetProxy = 157F77AF20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4420D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1019 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOFoundationCompat" /* NIOFoundationCompat */;
-			targetProxy = 157F77B020D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5F20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1020 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Async" /* Async */;
-			targetProxy = 157F77B120D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6020D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1021 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Bits" /* Bits */;
-			targetProxy = 157F77B220D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6120D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1022 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Debugging" /* Debugging */;
-			targetProxy = 157F77B320D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6220D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1023 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::COperatingSystem" /* COperatingSystem */;
-			targetProxy = 157F77B420D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6320D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1024 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIO" /* NIO */;
-			targetProxy = 157F77B520D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6420D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1025 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F77B620D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6520D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1026 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F77B720D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6620D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1027 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F77B820D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6720D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1028 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F77B920D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6820D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1090 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F777920D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A3F20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1091 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F777A20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4020D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1092 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F777B20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4120D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1093 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F777D20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4320D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1102 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F777C20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4220D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1114 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIO" /* NIO */;
-			targetProxy = 157F777820D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4620D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1115 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F777E20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4720D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1116 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F777F20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4820D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1117 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F778020D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4920D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1118 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F778120D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4A20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1187 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::DatabaseKit" /* DatabaseKit */;
-			targetProxy = 157F77E620D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AAB20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1188 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Service" /* Service */;
-			targetProxy = 157F77E720D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AAC20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1189 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Core" /* Core */;
-			targetProxy = 157F77E820D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AAD20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1190 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOFoundationCompat" /* NIOFoundationCompat */;
-			targetProxy = 157F77E920D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AAE20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1191 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Async" /* Async */;
-			targetProxy = 157F77EA20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AAF20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1192 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Bits" /* Bits */;
-			targetProxy = 157F77EB20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AB020D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1193 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Debugging" /* Debugging */;
-			targetProxy = 157F77EC20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AB120D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1194 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::COperatingSystem" /* COperatingSystem */;
-			targetProxy = 157F77ED20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AB220D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1195 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIO" /* NIO */;
-			targetProxy = 157F77EE20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AB320D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1196 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F77EF20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AB420D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1197 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F77F020D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AB520D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1198 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F77F120D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AB620D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1199 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F77F220D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AB720D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1236 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Core" /* Core */;
-			targetProxy = 157F777620D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6920D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1237 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOFoundationCompat" /* NIOFoundationCompat */;
-			targetProxy = 157F779620D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6A20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1238 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Async" /* Async */;
-			targetProxy = 157F779720D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6B20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1239 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Bits" /* Bits */;
-			targetProxy = 157F779820D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6C20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1240 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Debugging" /* Debugging */;
-			targetProxy = 157F779920D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6D20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1241 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::COperatingSystem" /* COperatingSystem */;
-			targetProxy = 157F779A20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6E20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1242 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIO" /* NIO */;
-			targetProxy = 157F779B20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A6F20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1243 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F779C20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7020D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1244 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F779D20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7120D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1245 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F779E20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7220D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_1246 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F779F20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7320D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_456 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIO" /* NIO */;
-			targetProxy = 157F778320D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4C20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_458 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F778420D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4D20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_460 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F778520D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4E20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_462 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F778620D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4F20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_464 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F778720D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5020D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_490 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIO" /* NIO */;
-			targetProxy = 157F778920D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5220D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_491 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F778A20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5320D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_492 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F778B20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5420D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_493 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F778C20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5520D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_494 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F778D20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5620D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_495 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Debugging" /* Debugging */;
-			targetProxy = 157F778E20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5720D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_558 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Console" /* Console */;
-			targetProxy = 157F77AC20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8220D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_560 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Logging" /* Logging */;
-			targetProxy = 157F77C520D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9020D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_562 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Service" /* Service */;
-			targetProxy = 157F77C620D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9120D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_564 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Core" /* Core */;
-			targetProxy = 157F77C720D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9220D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_566 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOFoundationCompat" /* NIOFoundationCompat */;
-			targetProxy = 157F77C820D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9320D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_568 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Async" /* Async */;
-			targetProxy = 157F77C920D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9420D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_569 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Bits" /* Bits */;
-			targetProxy = 157F77CA20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9520D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_570 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Debugging" /* Debugging */;
-			targetProxy = 157F77CB20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9620D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_571 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::COperatingSystem" /* COperatingSystem */;
-			targetProxy = 157F77CC20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9720D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_572 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIO" /* NIO */;
-			targetProxy = 157F77CD20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9820D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_573 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F77CE20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9920D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_574 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F77CF20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9A20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_575 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F77D020D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9B20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_576 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F77D120D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9C20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_622 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Service" /* Service */;
-			targetProxy = 157F77AD20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8320D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_623 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Logging" /* Logging */;
-			targetProxy = 157F77AE20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8420D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_624 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Core" /* Core */;
-			targetProxy = 157F77BA20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8520D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_625 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOFoundationCompat" /* NIOFoundationCompat */;
-			targetProxy = 157F77BB20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8620D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_626 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Async" /* Async */;
-			targetProxy = 157F77BC20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8720D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_627 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::COperatingSystem" /* COperatingSystem */;
-			targetProxy = 157F77BD20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8820D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_628 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Bits" /* Bits */;
-			targetProxy = 157F77BE20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8920D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_629 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Debugging" /* Debugging */;
-			targetProxy = 157F77BF20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8A20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_630 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIO" /* NIO */;
-			targetProxy = 157F77C020D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8B20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_631 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F77C120D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8C20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_632 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F77C220D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8D20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_633 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F77C320D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8E20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_634 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F77C420D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8F20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_674 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOFoundationCompat" /* NIOFoundationCompat */;
-			targetProxy = 157F777720D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4520D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_675 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Async" /* Async */;
-			targetProxy = 157F778220D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A4B20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_676 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Bits" /* Bits */;
-			targetProxy = 157F778820D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5120D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_677 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIO" /* NIO */;
-			targetProxy = 157F778F20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5820D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_678 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F779020D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5920D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_679 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F779120D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5A20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_680 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F779220D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5B20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_681 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F779320D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5C20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_682 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Debugging" /* Debugging */;
-			targetProxy = 157F779420D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5D20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_683 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::COperatingSystem" /* COperatingSystem */;
-			targetProxy = 157F779520D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A5E20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_731 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Service" /* Service */;
-			targetProxy = 157F777520D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7520D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_732 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Core" /* Core */;
-			targetProxy = 157F77A020D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7620D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_733 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOFoundationCompat" /* NIOFoundationCompat */;
-			targetProxy = 157F77A120D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7720D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_734 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Async" /* Async */;
-			targetProxy = 157F77A220D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7820D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_735 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Bits" /* Bits */;
-			targetProxy = 157F77A320D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7920D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_736 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Debugging" /* Debugging */;
-			targetProxy = 157F77A420D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7A20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_737 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::COperatingSystem" /* COperatingSystem */;
-			targetProxy = 157F77A520D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7B20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_738 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIO" /* NIO */;
-			targetProxy = 157F77A620D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7C20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_739 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F77A720D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7D20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_740 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F77A820D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7E20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_741 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F77A920D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7F20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_742 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F77AA20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8020D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_822 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::DatabaseKit" /* DatabaseKit */;
-			targetProxy = 157F777420D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A7420D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_823 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Command" /* Command */;
-			targetProxy = 157F77AB20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A8120D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_824 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Console" /* Console */;
-			targetProxy = 157F77D220D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9D20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_825 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Logging" /* Logging */;
-			targetProxy = 157F77D320D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9E20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_826 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Service" /* Service */;
-			targetProxy = 157F77D420D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7A9F20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_827 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Core" /* Core */;
-			targetProxy = 157F77D520D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AA020D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_828 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOFoundationCompat" /* NIOFoundationCompat */;
-			targetProxy = 157F77D620D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AA120D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_829 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Async" /* Async */;
-			targetProxy = 157F77D720D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AA220D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_830 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Bits" /* Bits */;
-			targetProxy = 157F77D820D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AA320D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_831 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Debugging" /* Debugging */;
-			targetProxy = 157F77D920D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AA420D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_832 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::COperatingSystem" /* COperatingSystem */;
-			targetProxy = 157F77DA20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AA520D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_833 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIO" /* NIO */;
-			targetProxy = 157F77DB20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AA620D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_834 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F77DC20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AA720D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_835 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F77DD20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AA820D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_836 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F77DE20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AA920D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_837 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F77DF20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AAA20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_875 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Fluent" /* Fluent */;
-			targetProxy = 157F77E120D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AB820D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_876 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Command" /* Command */;
-			targetProxy = 157F77E220D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AB920D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_877 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Console" /* Console */;
-			targetProxy = 157F77E320D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ABA20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_878 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Logging" /* Logging */;
-			targetProxy = 157F77E420D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ABB20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_879 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::SQLite" /* SQLite */;
-			targetProxy = 157F77E520D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ABC20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_881 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::DatabaseKit" /* DatabaseKit */;
-			targetProxy = 157F77F320D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ABD20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_882 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Service" /* Service */;
-			targetProxy = 157F77F420D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ABE20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_883 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Core" /* Core */;
-			targetProxy = 157F77F520D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ABF20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_884 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOFoundationCompat" /* NIOFoundationCompat */;
-			targetProxy = 157F77F620D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AC020D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_885 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Async" /* Async */;
-			targetProxy = 157F77F720D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AC120D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_886 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Bits" /* Bits */;
-			targetProxy = 157F77F820D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AC220D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_887 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Debugging" /* Debugging */;
-			targetProxy = 157F77F920D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AC320D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_888 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::COperatingSystem" /* COperatingSystem */;
-			targetProxy = 157F77FA20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AC420D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_889 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIO" /* NIO */;
-			targetProxy = 157F77FB20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AC520D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_890 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F77FC20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AC620D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_891 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F77FD20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AC720D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_892 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F77FE20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AC820D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_893 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F77FF20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AC920D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_920 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::FluentSQLite" /* FluentSQLite */;
-			targetProxy = 157F77E020D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ACA20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_921 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::SQLite" /* SQLite */;
-			targetProxy = 157F780020D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ACB20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_922 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Fluent" /* Fluent */;
-			targetProxy = 157F780120D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ACC20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_923 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::DatabaseKit" /* DatabaseKit */;
-			targetProxy = 157F780220D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ACD20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_924 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Command" /* Command */;
-			targetProxy = 157F780320D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ACE20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_925 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Console" /* Console */;
-			targetProxy = 157F780420D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ACF20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_926 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Logging" /* Logging */;
-			targetProxy = 157F780520D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AD020D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_927 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Service" /* Service */;
-			targetProxy = 157F780620D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AD120D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_928 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Core" /* Core */;
-			targetProxy = 157F780720D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AD220D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_929 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOFoundationCompat" /* NIOFoundationCompat */;
-			targetProxy = 157F780820D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AD320D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_930 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Async" /* Async */;
-			targetProxy = 157F780920D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AD420D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_931 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Bits" /* Bits */;
-			targetProxy = 157F780A20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AD520D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_932 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Debugging" /* Debugging */;
-			targetProxy = 157F780B20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AD620D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_933 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::COperatingSystem" /* COperatingSystem */;
-			targetProxy = 157F780C20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AD720D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_934 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIO" /* NIO */;
-			targetProxy = 157F780D20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AD820D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_935 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F780E20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AD920D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_936 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F780F20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ADA20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_937 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F781020D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ADB20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_938 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F781120D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ADC20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_949 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::FluentiTests" /* FluentiTests */;
-			targetProxy = 157F782620D5DB7D004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AF120D5DDCF004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_978 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Fluenti" /* Fluenti */;
-			targetProxy = 157F781220D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ADD20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_979 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::FluentSQLite" /* FluentSQLite */;
-			targetProxy = 157F781320D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ADE20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_980 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::SQLite" /* SQLite */;
-			targetProxy = 157F781420D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7ADF20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_981 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Fluent" /* Fluent */;
-			targetProxy = 157F781520D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AE020D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_982 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::DatabaseKit" /* DatabaseKit */;
-			targetProxy = 157F781620D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AE120D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_983 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Command" /* Command */;
-			targetProxy = 157F781720D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AE220D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_984 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Console" /* Console */;
-			targetProxy = 157F781820D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AE320D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_985 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Logging" /* Logging */;
-			targetProxy = 157F781920D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AE420D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_986 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Service" /* Service */;
-			targetProxy = 157F781A20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AE520D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_987 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Core" /* Core */;
-			targetProxy = 157F781B20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AE620D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_988 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOFoundationCompat" /* NIOFoundationCompat */;
-			targetProxy = 157F781C20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AE720D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_989 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Async" /* Async */;
-			targetProxy = 157F781D20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AE820D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_990 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Bits" /* Bits */;
-			targetProxy = 157F781E20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AE920D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_991 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::Debugging" /* Debugging */;
-			targetProxy = 157F781F20D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AEA20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_992 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::COperatingSystem" /* COperatingSystem */;
-			targetProxy = 157F782020D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AEB20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_993 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIO" /* NIO */;
-			targetProxy = 157F782120D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AEC20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_994 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIODarwin" /* CNIODarwin */;
-			targetProxy = 157F782220D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AED20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_995 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOLinux" /* CNIOLinux */;
-			targetProxy = 157F782320D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AEE20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_996 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::NIOConcurrencyHelpers" /* NIOConcurrencyHelpers */;
-			targetProxy = 157F782420D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AEF20D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 		OBJ_997 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "Fluenti::CNIOAtomics" /* CNIOAtomics */;
-			targetProxy = 157F782520D5DB7C004B75C4 /* PBXContainerItemProxy */;
+			targetProxy = 157F7AF020D5DDCE004B75C4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
