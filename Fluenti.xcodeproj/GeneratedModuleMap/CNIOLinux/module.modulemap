@@ -1,4 +1,4 @@
 module CNIOLinux {
-    umbrella "/Projects/iOS/Fluenti-Generator/Fluenti/Sources/CNIOLinux/include"
+    umbrella "/Projects/iOS/Fluenti-Generator/SPM/.build/checkouts/swift-nio.git--6692843522367771632/Sources/CNIOLinux/include"
     export *
 }

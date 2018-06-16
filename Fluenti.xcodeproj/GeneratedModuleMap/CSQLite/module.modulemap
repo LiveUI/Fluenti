@@ -1,4 +1,0 @@
-module CSQLite {
-    umbrella "/Projects/iOS/Fluenti-Generator/Fluenti/Sources/CSQLite/include"
-    export *
-}

@@ -1,4 +1,0 @@
-module CNIOHTTPParser {
-    umbrella "/Projects/iOS/Fluenti-Generator/Fluenti/Sources/CNIOHTTPParser/include"
-    export *
-}
