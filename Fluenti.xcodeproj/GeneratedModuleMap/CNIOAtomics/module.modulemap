@@ -1,0 +1,4 @@
+module CNIOAtomics {
+    umbrella "/Projects/iOS/Fluenti-Generator/Fluenti/Sources/CNIOAtomics/include"
+    export *
+}

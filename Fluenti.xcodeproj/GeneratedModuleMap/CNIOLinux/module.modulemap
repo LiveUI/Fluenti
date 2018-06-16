@@ -1,0 +1,4 @@
+module CNIOLinux {
+    umbrella "/Projects/iOS/Fluenti-Generator/Fluenti/Sources/CNIOLinux/include"
+    export *
+}
