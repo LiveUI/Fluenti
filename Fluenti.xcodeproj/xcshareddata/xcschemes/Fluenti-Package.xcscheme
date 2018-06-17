@@ -6,7 +6,7 @@
         <BuildableReference
           BuildableIdentifier = "primary"
           BuildableName = "'lib$(TARGET_NAME)'"
-          BlueprintName = "Bits"
+          BlueprintName = "NIOConcurrencyHelpers"
           ReferencedContainer = "container:Fluenti.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>
@@ -14,7 +14,15 @@
         <BuildableReference
           BuildableIdentifier = "primary"
           BuildableName = "'lib$(TARGET_NAME)'"
-          BlueprintName = "NIOFoundationCompat"
+          BlueprintName = "CNIODarwin"
+          ReferencedContainer = "container:Fluenti.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "CNIOAtomics"
           ReferencedContainer = "container:Fluenti.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>
@@ -30,7 +38,7 @@
         <BuildableReference
           BuildableIdentifier = "primary"
           BuildableName = "'lib$(TARGET_NAME)'"
-          BlueprintName = "COperatingSystem"
+          BlueprintName = "Fluenti"
           ReferencedContainer = "container:Fluenti.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>
@@ -46,31 +54,23 @@
         <BuildableReference
           BuildableIdentifier = "primary"
           BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "DatabaseKit"
+          ReferencedContainer = "container:Fluenti.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "NIOFoundationCompat"
+          ReferencedContainer = "container:Fluenti.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
           BlueprintName = "Command"
-          ReferencedContainer = "container:Fluenti.xcodeproj">
-        </BuildableReference>
-      </BuildActionEntry>
-      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
-        <BuildableReference
-          BuildableIdentifier = "primary"
-          BuildableName = "'lib$(TARGET_NAME)'"
-          BlueprintName = "NIO"
-          ReferencedContainer = "container:Fluenti.xcodeproj">
-        </BuildableReference>
-      </BuildActionEntry>
-      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
-        <BuildableReference
-          BuildableIdentifier = "primary"
-          BuildableName = "'lib$(TARGET_NAME)'"
-          BlueprintName = "NIOConcurrencyHelpers"
-          ReferencedContainer = "container:Fluenti.xcodeproj">
-        </BuildableReference>
-      </BuildActionEntry>
-      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
-        <BuildableReference
-          BuildableIdentifier = "primary"
-          BuildableName = "'lib$(TARGET_NAME)'"
-          BlueprintName = "CNIOAtomics"
           ReferencedContainer = "container:Fluenti.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>
@@ -94,14 +94,6 @@
         <BuildableReference
           BuildableIdentifier = "primary"
           BuildableName = "'lib$(TARGET_NAME)'"
-          BlueprintName = "Core"
-          ReferencedContainer = "container:Fluenti.xcodeproj">
-        </BuildableReference>
-      </BuildActionEntry>
-      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
-        <BuildableReference
-          BuildableIdentifier = "primary"
-          BuildableName = "'lib$(TARGET_NAME)'"
           BlueprintName = "Async"
           ReferencedContainer = "container:Fluenti.xcodeproj">
         </BuildableReference>
@@ -110,7 +102,7 @@
         <BuildableReference
           BuildableIdentifier = "primary"
           BuildableName = "'lib$(TARGET_NAME)'"
-          BlueprintName = "CNIOLinux"
+          BlueprintName = "COperatingSystem"
           ReferencedContainer = "container:Fluenti.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>
@@ -118,7 +110,7 @@
         <BuildableReference
           BuildableIdentifier = "primary"
           BuildableName = "'lib$(TARGET_NAME)'"
-          BlueprintName = "CNIODarwin"
+          BlueprintName = "Logging"
           ReferencedContainer = "container:Fluenti.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>
@@ -126,7 +118,7 @@
         <BuildableReference
           BuildableIdentifier = "primary"
           BuildableName = "'lib$(TARGET_NAME)'"
-          BlueprintName = "Console"
+          BlueprintName = "Core"
           ReferencedContainer = "container:Fluenti.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>
@@ -142,7 +134,7 @@
         <BuildableReference
           BuildableIdentifier = "primary"
           BuildableName = "'lib$(TARGET_NAME)'"
-          BlueprintName = "Fluenti"
+          BlueprintName = "Console"
           ReferencedContainer = "container:Fluenti.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>
@@ -150,7 +142,7 @@
         <BuildableReference
           BuildableIdentifier = "primary"
           BuildableName = "'lib$(TARGET_NAME)'"
-          BlueprintName = "DatabaseKit"
+          BlueprintName = "NIO"
           ReferencedContainer = "container:Fluenti.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>
@@ -158,7 +150,15 @@
         <BuildableReference
           BuildableIdentifier = "primary"
           BuildableName = "'lib$(TARGET_NAME)'"
-          BlueprintName = "Logging"
+          BlueprintName = "CNIOLinux"
+          ReferencedContainer = "container:Fluenti.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Bits"
           ReferencedContainer = "container:Fluenti.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>
